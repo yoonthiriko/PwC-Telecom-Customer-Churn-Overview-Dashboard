@@ -94,4 +94,4 @@ This project is licensed under the MIT License.
 
 ## Credits
 
-Developed by Yoon Thiri Ko. Special thanks to PwC for providing a simulation framework that guided this dashboard’s design, enabling a deeper understanding of customer churn and retention strategies.
+Developed by Yoon Thiri Ko. Special thanks to PwC and Forage for providing a simulation framework that guided this dashboard’s design, enabling a deeper understanding of customer churn and retention strategies.
